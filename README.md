@@ -24,7 +24,7 @@ To configure the bot, you need to modify its code. Here are the steps to follow:
 * On the line 451, in `bot.run("BOT_TOKEN")`, replace BOT_TOKEN by the token of your bot (Create a bot and a token here: [Discord Developper Portal](https://discord.com/developers/applications).
 * Save your changes and run the bot
 
-** Customization **
+**Customization**
 ----------------------
 On lines 190 and 191, in ctx.guild.roles, replace the content of the "name" attribute with the name of your staff role.
 Do the same at line 200.
