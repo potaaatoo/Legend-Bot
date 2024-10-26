@@ -26,9 +26,9 @@ To configure the bot, you need to modify its code. Here are the steps to follow:
 
 **Customization**
 ----------------------
-On lines 190 and 191, in ctx.guild.roles, replace the content of the "name" attribute with the name of your staff role.
-Do the same at line 200.
-On line 171, personalize the welcome message.
+* On lines 190 and 191, in ctx.guild.roles, replace the content of the "name" attribute with the name of your staff role.
+* Do the same at line 200.
+* On line 171, personalize the welcome message.
 
 **Updates**
 ------------
